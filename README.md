@@ -1,1 +1,1 @@
-I'm now a ALX Student, this is my first repository as a full-stack engineer; there is more to come
+I'm now a ALX Student, getting better by the day.
