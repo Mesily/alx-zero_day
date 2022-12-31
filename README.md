@@ -1,1 +1,2 @@
-I'm now a ALX Student, full time.yeppee!
+I'm now a ALX Student, full time.
+yeppee!
